@@ -1,12 +1,14 @@
-# Informasi tentang project web ini adalah = 
+# Informasi tentang project cms web ini adalah = 
 website ini saya bangun sendiri dengan bahasa pemrogramman PHP dengan menggunakan framework LARAVEL versi 7
 
-Nama pembuat = Dafid Alfian A
-Email = sdwi02467@gmail.com
+
+# Informasi pembuat Hubungi:
+- Nama= Dafid Alfian
+- Email = sdwi02467@gmail.com
 +++++++ id.dafidalfian@gmail.com
-No-Whatsapp = 083854039128
+- No-Whatsapp = 083854039128
 +++++++++++++ 087703284840
-Instagram = xdark_404
+- Instagram = xdark_404
 
 # Untuk instalasi lengkap
 Silahkan buka situs https://github.com/dafidalfian/webcompnay-achmadilandscapesejahtera-versi-7-POS.git
