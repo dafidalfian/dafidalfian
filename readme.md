@@ -16,7 +16,7 @@ website ini saya bangun sendiri dengan bahasa pemrogramman PHP dengan menggunaka
 Silahkan buka situs https://github.com/dafidalfian/webcompnay-achmadilandscapesejahtera-versi-7-POS.git
 untuk petunjuk installasi
 Setelah mendownload file project nya anda harus mengetikan perintah di bawah ini
-++ composer install // atau mengekstrak file vendor yg akan saya sediakan di dalam folder project yg telah di download. setelah itu ikuti tahap di bawah.
+++ composer install // atau mengekstrak file vendor.rar yg akan saya sediakan di dalam folder project yg telah di download. setelah itu ikuti tahap di bawah.
 
 # Username & Password
 - Halaman Login http://localhost/webcompnay-achmadilandscapesejahtera-versi-7-POS/login
